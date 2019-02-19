@@ -1,0 +1,11 @@
+.cardInfo {
+    border: 1px solid #0933;
+    margin-bottom: 15px;
+    padding: 7px;
+}
+
+.billing {
+    border: 1px solid #066;
+    margin-bottom: 16px;
+    padding: 10px;
+}
