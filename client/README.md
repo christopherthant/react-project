@@ -6,7 +6,7 @@
 
 ## Steps
 ### `1. npm install`
-### `2. cd clinet && npm install`
+### `2. cd client && npm install`
 ### `3. cd server && npm install`
 
 ### `npm start`
